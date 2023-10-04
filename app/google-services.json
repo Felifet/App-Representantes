@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458371024766",
+    "project_id": "projeto-representantes",
+    "storage_bucket": "projeto-representantes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458371024766:android:83b5cdb7f9e6167531952f",
+        "android_client_info": {
+          "package_name": "com.felipe.projetorepresentantes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz2YRzkNaKMIN3Nz0mImI74IjBjXCRJdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
