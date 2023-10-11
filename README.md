@@ -1,2 +1,2 @@
 # App-Representantes
-Aplicação Android - Disciplina de Programação para dispositívos móveis
+Aplicação Android/Kotlin - Disciplina de Programação para dispositívos móveis.
